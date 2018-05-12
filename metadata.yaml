@@ -1,0 +1,26 @@
+_repo: An-Outline-of-English-Speech-craft_44289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barnes, William
+    birthdate: 1801
+    deathdate: 1886
+    gutenberg_agent_id: '24887'
+    url: http://www.gutenberg.org/2009/agents/24887
+description: ''
+gutenberg_issued: '2013-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Grammar'
+title: An Outline of English Speech-craft
+url: http://www.gutenberg.org/ebooks/44289
